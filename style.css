@@ -1,0 +1,15 @@
+body {
+    color: black;
+    background:  tan;
+
+}
+
+a {
+    padding-bottom: 20px;
+    color: black;
+    display: block;
+}
+
+img {
+    display: block;
+}
